@@ -6,7 +6,8 @@ def greet_characters(array)
     puts "#{array} isn't sure if this should be unique for each element"
 end
 
- list_dwarves(array)
-  # Use `each_with_index` to enumerate over the provided array
-  #
-  # Print a numbered list of each element
+# def list_dwarves(array)
+#   # Use `each_with_index` to enumerate over the provided array
+#   #
+#   # Print a numbered list of each element
+# end
